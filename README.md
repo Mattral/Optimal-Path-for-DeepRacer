@@ -5,6 +5,8 @@ The [AWS DeepRacer Virtual Circuit](http://deepracerleague.com) is run every mon
 
 Rewards functions are developed by each competitor in order to guide the learning, and these functions can vary widely.  One of the experiments I wanted to try was to be overly prescriptive to the car.  
 
+- For all the availible open source tracks, please see this [link](https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_data/tracks) to download the track of your current season!
+
 
 ## Source and Result
 
